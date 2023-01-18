@@ -51,14 +51,3 @@ int countnum = CountEvenNum(NewArray);
 // Выводим на экран количество чётных чисел, 
 //найденных функцией CountEvenNum в массиве NewArray
 Console.WriteLine($"Количество чётных чисел в массиве [ {String.Join(" ,", NewArray)} ] равно: {countnum}");
-
-
-// int count = 0;
-// for (int i=0; i< NewArray.Length; i++)
-// {
-//     if (NewArray[i] % 2 == 0)
-//     {
-//         count = count + 1;
-//     }
-// }
-// Console.WriteLine(count); 
