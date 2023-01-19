@@ -1,0 +1,16 @@
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_5/Task_038/bin/Debug/net6.0/Task_038
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_5/Task_038/bin/Debug/net6.0/Task_038.deps.json
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_5/Task_038/bin/Debug/net6.0/Task_038.runtimeconfig.json
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_5/Task_038/bin/Debug/net6.0/Task_038.dll
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_5/Task_038/bin/Debug/net6.0/ref/Task_038.dll
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_5/Task_038/bin/Debug/net6.0/Task_038.pdb
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_5/Task_038/obj/Debug/net6.0/Task_038.GlobalUsings.g.cs
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_5/Task_038/obj/Debug/net6.0/Task_038.csproj.AssemblyReference.cache
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_5/Task_038/obj/Debug/net6.0/Task_038.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_5/Task_038/obj/Debug/net6.0/Task_038.AssemblyInfoInputs.cache
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_5/Task_038/obj/Debug/net6.0/Task_038.AssemblyInfo.cs
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_5/Task_038/obj/Debug/net6.0/Task_038.csproj.CoreCompileInputs.cache
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_5/Task_038/obj/Debug/net6.0/Task_038.dll
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_5/Task_038/obj/Debug/net6.0/ref/Task_038.dll
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_5/Task_038/obj/Debug/net6.0/Task_038.pdb
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_5/Task_038/obj/Debug/net6.0/Task_038.genruntimeconfig.cache
