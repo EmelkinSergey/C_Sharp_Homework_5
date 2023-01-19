@@ -30,7 +30,7 @@ int [] NewArray = CreateRandomArray(10, 100, 1000);
 //чтобы она вывела на экран сгенерированный массив NewArray
 ShowArray(NewArray);
 
-// Функция, находящая чётные числа в массиве
+// Функция, находящая количество чётных чисел в массиве
 int CountEvenNum(int[] array)
 {
     int count = 0;
