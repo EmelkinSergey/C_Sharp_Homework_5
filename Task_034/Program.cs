@@ -29,6 +29,7 @@ int [] NewArray = CreateRandomArray(10, 100, 1000);
 // Обращаемся к функции ShowArray, 
 //чтобы она вывела на экран сгенерированный массив NewArray
 ShowArray(NewArray);
+Console.Clear();
 
 // Функция, находящая количество чётных чисел в массиве
 int CountEvenNum(int[] array)
